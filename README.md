@@ -2,28 +2,43 @@
 
 **Operations & Support Specialist | Data Analysis | Incident & Process Support**
 
-Operations and Support professional with experience in transaction processing, incident investigation, customer support, KPI/SLA monitoring, data analysis, and cross-functional coordination. My portfolio focuses on operational reporting, support analytics, production support, cloud operations concepts, and process improvement.
+Operations and Support professional with experience in transaction processing, incident investigation, customer support, KPI/SLA monitoring, data analysis, and cross-functional coordination.
+
+My GitHub portfolio focuses on practical examples of **support operations, incident analysis, SQL/KPI reporting, production-support concepts, cloud operations learning, and process improvement**.
 
 ## Featured Projects
 
-- **IT Service Desk Operations Dashboard** — incident volume, priority, SLA compliance, resolution time, and team analysis.
-- **Transaction Processing & Operations Analytics** — SQL-based transaction performance, failure patterns, KPIs, and operational insights.
-- **Customer Support Analytics** — synthetic support cases, SLA, response/resolution time, categories, and operational insights.
-- **Azure Support Operations Lab** — Azure-oriented incident triage, monitoring concepts, SLA analysis, KQL-style investigations, and runbooks.
-- **Production Support & Incident Management Lab** — severity, incident response, SLA analysis, RCA, major-incident communication, and prevention.
-- **Transmission Operations Analyst Lab** — message monitoring, failures, retries, exceptions, SLA reporting, and operational handover.
-- **Data Analytics for Operations Lab** — SQL KPI analysis, SLA compliance, root-cause analysis, and management reporting.
-- **Weather App** — API-based web application with Flask and ReactJS.
+### Operations & Support
+- **IT Service Desk Operations Dashboard** — interactive incident volume, priority, SLA, resolution-time, and team analysis.
+- **Customer Support Analytics** — synthetic support cases with SLA, response/resolution time, categories, and operational insights.
+- **Production Support & Incident Management Lab** — incident lifecycle, severity, RCA, SLA, and major-incident documentation.
+
+### Data & Transaction Operations
+- **Transaction Processing & Operations Analytics** — SQL analysis of transaction outcomes, failure patterns, and operational KPIs.
+- **Transmission Operations Analyst Lab** — monitoring, failures, retries, exceptions, SLA reporting, and handover.
+- **Data Analytics for Operations Lab** — KPI analysis, SLA compliance, exception analysis, and management reporting.
+
+### Technical / Cloud Learning
+- **IT Service Desk Operations Dashboard** — browser-based operational dashboard with GitHub Pages deployment.
+- **Azure Support Operations Lab** — Azure-oriented incident triage, monitoring concepts, KQL-style investigations, and runbooks.
+- **Weather App** — earlier Flask + ReactJS API-based web application.
 
 ## Skills
 
-**Operations & Support:** Incident Management • Case Resolution • Customer Support • SLA/KPI Monitoring • Process Support • Root-Cause Analysis • Production Support Concepts
+**Operations & Support:** Incident Management • Case Resolution • Customer Support • SLA/KPI Monitoring • Process Support • Root-Cause Analysis
 
 **Data & Analysis:** SQL • Excel • Power BI • Reporting • Trend Analysis • Operational Analytics
 
-**Cloud & Technical Learning:** Azure Operations Concepts • Monitoring • KQL Fundamentals • Technical Troubleshooting • ITSM Concepts
+**Technical Learning:** Technical Troubleshooting • Monitoring Concepts • Azure Operations Concepts • KQL Fundamentals • ITSM Concepts
 
 **Tools:** Zendesk • Salesforce • Microsoft Office • GitHub • TypeScript
+
+## Portfolio Principles
+
+- Use synthetic data for demonstrations.
+- Clearly distinguish learning labs from professional experience.
+- Focus on business problems, evidence, KPIs, root causes, and actions.
+- Keep project documentation concise and interview-friendly.
 
 ## Education
 
