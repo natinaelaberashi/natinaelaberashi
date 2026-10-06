@@ -1,49 +1,38 @@
 # Natinael Abera Shibeshi
 
-**Operations & Support Specialist | Data Analysis | Incident & Process Support**
+**Payment Systems Analyst | Payment Operations | Transaction Analysis | Technical Troubleshooting**
 
-Operations and Support professional with experience in transaction processing, incident investigation, customer support, KPI/SLA monitoring, data analysis, and cross-functional coordination.
+I work at the intersection of payment operations, transaction analysis, technical support and data-driven problem solving.
 
-My GitHub portfolio focuses on practical examples of **support operations, incident analysis, SQL/KPI reporting, production-support concepts, cloud operations learning, and process improvement**.
+My portfolio demonstrates practical work in **payment transaction analysis, SQL, incident investigation, SLA/KPI monitoring, technical troubleshooting, operational analytics and support systems**.
 
 ## Featured Projects
 
-### Operations & Support
-- **IT Service Desk Operations Dashboard** — interactive incident volume, priority, SLA, resolution-time, and team analysis.
-- **Customer Support Analytics** — synthetic support cases with SLA, response/resolution time, categories, and operational insights.
-- **Production Support & Incident Management Lab** — incident lifecycle, severity, RCA, SLA, and major-incident documentation.
-
-### Data & Transaction Operations
-- **Transaction Processing & Operations Analytics** — SQL analysis of transaction outcomes, failure patterns, and operational KPIs.
-- **Transmission Operations Analyst Lab** — monitoring, failures, retries, exceptions, SLA reporting, and handover.
-- **Data Analytics for Operations Lab** — KPI analysis, SLA compliance, exception analysis, and management reporting.
-
-### Technical / Cloud Learning
-- **IT Service Desk Operations Dashboard** — browser-based operational dashboard with GitHub Pages deployment.
-- **Azure Support Operations Lab** — Azure-oriented incident triage, monitoring concepts, KQL-style investigations, and runbooks.
-- **Weather App** — earlier Flask + ReactJS API-based web application.
+- **Transaction Processing & Operations Analytics** — SQL analysis of transaction outcomes, failures, decline patterns and operational KPIs.
+- **Payment Product Operations Lab** — synthetic payment operations analysis covering transaction KPIs, failures, SLA breaches and investigation.
+- **Production Support & Incident Management Lab** — incident lifecycle, RCA, SLA and preventive-action workflow.
+- **IT Service Desk Operations Dashboard** — interactive support operations dashboard.
 
 ## Skills
 
-**Operations & Support:** Incident Management • Case Resolution • Customer Support • SLA/KPI Monitoring • Process Support • Root-Cause Analysis
+**Payments:** Payment Operations • Transaction Processing • Transaction Analysis • Exception Handling • Payment Support
 
-**Data & Analysis:** SQL • Excel • Power BI • Reporting • Trend Analysis • Operational Analytics
+**Technical:** SQL • Troubleshooting • Root-Cause Analysis • Technical Support • System Investigation • API Concepts • ITSM Concepts
 
-**Technical Learning:** Technical Troubleshooting • Monitoring Concepts • Azure Operations Concepts • KQL Fundamentals • ITSM Concepts
+**Data:** Excel • Power BI • KPI Reporting • Operational Analytics • Trend Analysis
 
-**Tools:** Zendesk • Salesforce • Microsoft Office • GitHub • TypeScript
+**Cloud & Tools:** Azure Fundamentals • KQL Fundamentals • GitHub • Microsoft Office
 
 ## Portfolio Principles
 
 - Use synthetic data for demonstrations.
-- Clearly distinguish learning labs from professional experience.
-- Focus on business problems, evidence, KPIs, root causes, and actions.
-- Keep project documentation concise and interview-friendly.
+- Clearly distinguish portfolio/lab work from professional experience.
+- Focus on evidence, KPIs, investigation, root causes and actions.
+- Keep projects relevant to real payment and support workflows.
 
 ## Education
 
-**MSc Management & Organization**  
-Silesian University of Technology, Poland
+**MSc Management & Organization** — Silesian University of Technology, Poland
 
 ## Connect
 
