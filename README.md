@@ -1,34 +1,47 @@
 # Natinael Abera Shibeshi
 
-**Payment Systems Analyst | Payment Operations | Transaction Analysis | Technical Troubleshooting**
+**Payments Operations Analyst | Transaction Analysis | Payment Support | Operations & Process**
 
-I work at the intersection of payment operations, transaction analysis, technical support and data-driven problem solving.
+I focus on the operational side of payments: transaction processing, exception investigation, onboarding support, incident handling, SLA/KPI monitoring and data-driven problem solving.
 
-My portfolio demonstrates practical work in **payment transaction analysis, SQL, incident investigation, SLA/KPI monitoring, technical troubleshooting, operational analytics and support systems**.
+My technical background adds **SQL, troubleshooting, systems analysis and operational reporting**.
+
+## Target Roles
+
+- Payment Operations Specialist / Analyst
+- Payment Analyst
+- Payments Onboarding Specialist
+- Payments Support Specialist
+- Transaction Operations Analyst
+- Chargeback / Dispute Specialist
+- Fraud Operations Analyst
+- Financial Operations Analyst
+- Business Process Analyst
+- Functional Support Analyst
 
 ## Featured Projects
 
 - **Transaction Processing & Operations Analytics** — SQL analysis of transaction outcomes, failures, decline patterns and operational KPIs.
-- **Payment Product Operations Lab** — synthetic payment operations analysis covering transaction KPIs, failures, SLA breaches and investigation.
-- **Production Support & Incident Management Lab** — incident lifecycle, RCA, SLA and preventive-action workflow.
-- **IT Service Desk Operations Dashboard** — interactive support operations dashboard.
+- **Payment Operations Case Lab** — payment exceptions, operational controls, SLA breaches and investigation workflow.
+- **Production Support & Incident Management Lab** — incident lifecycle, RCA, SLA, escalation and preventive actions.
+- **Operations Support Dashboard** — interactive operational KPI and SLA dashboard.
 
 ## Skills
 
-**Payments:** Payment Operations • Transaction Processing • Transaction Analysis • Exception Handling • Payment Support
+**Payments:** Payment Operations • Transaction Processing • Transaction Analysis • Exception Handling • Payment Support • Onboarding Support
 
-**Technical:** SQL • Troubleshooting • Root-Cause Analysis • Technical Support • System Investigation • API Concepts • ITSM Concepts
+**Investigation:** Root-Cause Analysis • Incident Management • Troubleshooting • Technical Support • Process Improvement
 
-**Data:** Excel • Power BI • KPI Reporting • Operational Analytics • Trend Analysis
+**Data:** SQL • Excel • Power BI • KPI Reporting • Operational Analytics
 
-**Cloud & Tools:** Azure Fundamentals • KQL Fundamentals • GitHub • Microsoft Office
+**Tools:** Azure Fundamentals • KQL Fundamentals • GitHub • Microsoft Office
 
 ## Portfolio Principles
 
 - Use synthetic data for demonstrations.
 - Clearly distinguish portfolio/lab work from professional experience.
 - Focus on evidence, KPIs, investigation, root causes and actions.
-- Keep projects relevant to real payment and support workflows.
+- Keep projects relevant to real payment and financial-operations workflows.
 
 ## Education
 
