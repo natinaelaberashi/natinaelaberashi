@@ -16,7 +16,7 @@ Support analyst with 5+ years of experience in customer and operations support, 
 
 ## Featured Projects
 - **CloudDesk IT Support Ticket System** — synthetic service desk dashboard covering ticket volume, backlog, SLA compliance, resolution time and team workload.
-- **IT Support Ticket System & Operations Analytics** — SQL analysis of outcomes, failures, trends and operational KPIs using synthetic data.
+- **Transaction Processing & Operations Analytics** — SQL analysis of transaction outcomes, failures, trends and operational KPIs using synthetic data.
 
 ## Skills
 **Customer Support & Service Management:** Incident and Case Management • SLA Monitoring • Escalation Management • Knowledge Base Contribution • Quality Assurance • Root Cause Analysis • Workaround Documentation
