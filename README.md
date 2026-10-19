@@ -1,55 +1,64 @@
-# Natinael Abera Shibeshi
+# Natinael Shibeshi
 
-**Payments Operations Analyst | Transaction Analysis | Payment Support | Operations & Process**
+**Support Services Analyst (Level 2) | Customer Support | Problem & Requirements Analysis**
 
-I focus on the operational side of payments: transaction processing, exception investigation, onboarding support, incident handling, SLA/KPI monitoring and data-driven problem solving.
-
-My technical background adds **SQL, troubleshooting, systems analysis and operational reporting**.
+Support analyst with 5+ years of experience in customer and operations support, providing accurate, timely and professional help to non-technical users. Experienced in incident investigation, root-cause analysis, issue replication, workaround documentation, escalation and SLA-compliant resolution. Reviews 400+ cases weekly at 93%+ quality, using SQL and Excel for investigation and performance reporting. English: C1. Based in Poland and available for Saturday and Sunday coverage.
 
 ## Target Roles
-
-- Payment Operations Specialist / Analyst
-- Payment Analyst
-- Payments Onboarding Specialist
-- Payments Support Specialist
-- Transaction Operations Analyst
-- Chargeback / Dispute Specialist
-- Fraud Operations Analyst
-- Financial Operations Analyst
-- Business Process Analyst
-- Functional Support Analyst
+- Support Services Analyst (Level 2)
+- Application / Product Support Analyst
+- IT Support Analyst / Service Desk Analyst
+- Customer Support Analyst
+- Technical Support Specialist
+- Incident & Problem Management Analyst
+- Business / Requirements Analyst
+- Operations Support Analyst
 
 ## Featured Projects
-
-- **Transaction Processing & Operations Analytics** — SQL analysis of transaction outcomes, failures, decline patterns and operational KPIs.
-- **Payment Operations Case Lab** — payment exceptions, operational controls, SLA breaches and investigation workflow.
-- **Production Support & Incident Management Lab** — incident lifecycle, RCA, SLA, escalation and preventive actions.
-- **Operations Support Dashboard** — interactive operational KPI and SLA dashboard.
+- **CloudDesk IT Support Ticket System** — synthetic service desk dashboard covering ticket volume, backlog, SLA compliance, resolution time and team workload.
+- **IT Support Ticket System & Operations Analytics** — SQL analysis of outcomes, failures, trends and operational KPIs using synthetic data.
 
 ## Skills
+**Customer Support & Service Management:** Incident and Case Management • SLA Monitoring • Escalation Management • Knowledge Base Contribution • Quality Assurance • Root Cause Analysis • Workaround Documentation
 
-**Payments:** Payment Operations • Transaction Processing • Transaction Analysis • Exception Handling • Payment Support • Onboarding Support
+**Analysis & Problem Solving:** Issue Replication • Requirements Clarification • Trend Analysis • Customer Advocacy • Cross-Team Collaboration • Evidence-Based Escalation
 
-**Investigation:** Root-Cause Analysis • Incident Management • Troubleshooting • Technical Support • Process Improvement
+**Data & Tools:** SQL • Excel • Power BI • Azure Fundamentals • BMC Remedy • ServiceNow • Zendesk • AI Tools • JSON/APIs
 
-**Data:** SQL • Excel • Power BI • KPI Reporting • Operational Analytics
+## Professional Experience
 
-**Tools:** Azure Fundamentals • KQL Fundamentals • GitHub • Microsoft Office
+### Customer Support Services Analyst — Euronet Polska Sp. z o.o.
+*August 2024 – Present | Poland*
+- Resolve and validate 400+ cases weekly within SLAs at 93%+ quality, confirming workarounds satisfy customers before closure.
+- Support customers via phone, email, portal and chat, gathering and clarifying their needs.
+- Investigate root causes using SQL and Excel; report on quality and performance metrics.
+- Document recurring scenarios and escalate with evidence, replication details and recommended next steps.
 
-## Portfolio Principles
+### Customer Support Specialist — Concentrix CVG International Sp. z o.o.
+*May 2023 – July 2024 | Poland*
+- Investigated and resolved 80+ system incidents daily against strict time targets.
+- Used Excel and SQL for root-cause analysis and documented evidence supporting resolution.
+- Trained and guided colleagues on case handling.
+- Contributed to process improvements associated with a 7% reduction in potential operational losses; Golden Performer for three consecutive months.
 
-- Use synthetic data for demonstrations.
-- Clearly distinguish portfolio/lab work from professional experience.
-- Focus on evidence, KPIs, investigation, root causes and actions.
-- Keep projects relevant to real payment and financial-operations workflows.
+### Product Support & Technical Account Support — Ethio Canadian Business Group P.L.C
+*January 2020 – October 2021 | Ethiopia*
+- Supported product and account queries, resolving requests accurately and confidentially.
+- Explained product and account procedures to non-technical customers and escalated unresolved issues with complete case details.
 
 ## Education
+**MSc, Management & Organization** — Silesian University of Technology, Poland  
+*October 2021 – July 2023 | Gold Medalist | GPA: 3.75/4.00*
 
-**MSc Management & Organization** — Silesian University of Technology, Poland
+## Portfolio Principles
+- Use synthetic data for demonstrations.
+- Clearly separate portfolio projects from professional experience.
+- Document assumptions, investigation steps, evidence, root causes and next actions.
+- Never include confidential employer or customer data.
 
 ## Connect
-
 - Portfolio: https://natinaelaberashi.github.io/portfolio-website
 - GitHub: https://github.com/natinaelaberashi
 - LinkedIn: https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b
-- Email: shibnatbera@gmail.com
+- Email: shibnatabera@gmail.com
+- Location: Poland
