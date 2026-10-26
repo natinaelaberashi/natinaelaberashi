@@ -26,7 +26,7 @@ Currently pursuing a **second master's degree in Data Science**, developing capa
 - **Commercial Bank of Ethiopia** — Banking Operations / Payment Operations & Implementation Specialist (Jan 2020–Oct 2021): international market operations systems, financial data, operational controls and transaction issue resolution.
 
 ## Education
-- **Second MSc in Data Science — in progress** (institution and start date to be added).
+- **Second MSc in Data Science — WSB Merito University, in progress** (start date to be confirmed).
 - **MSc Management & Organization**, Silesian University of Technology, Poland (2021–2023).
 
 ## Portfolio development
