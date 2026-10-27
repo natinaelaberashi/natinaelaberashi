@@ -1,38 +1,45 @@
 # Natinael Abera Shibeshi
 
-**Financial Operations & Risk Analyst | Payment Operations | Fraud & Credit Risk Analytics | Data Analysis**
+**Customer Data & Business Performance Analyst | Data Analytics | Business Intelligence | Business Reporting**
 
-Based in Poland. Payment and banking operations professional with 3+ years of experience in transaction processing, payment validation, exception investigation, operational controls and reporting. Experienced in handling 400+ transactions/cases weekly and using Excel and SQL for analysis and process improvement.
+Based in Warsaw, Poland. I have an Engineering background, an MSc in Management & Organization, and experience in customer data management, operational reporting, KPI monitoring and business performance support at **Euronet** and **Concentrix CVG**.
 
-Currently pursuing a **second master's degree in Data Science**, developing capabilities in statistical analysis and data-driven financial risk decision-making.
+I am pursuing a **Master's in Data Science at WSB Merito University (2026–present)**, building on my professional experience with data analytics, business intelligence and analytical problem-solving.
 
 ## Career interests
-- Payment Operations / Transaction Operations Analyst
-- Financial Operations / Banking Operations Analyst
-- Fraud Operations / Fraud Analytics Analyst
-- Credit Risk Analyst / Risk Data Analyst (developing specialization)
-- Financial Data Analyst / Junior Data Analyst
+- Junior Data Analyst / Operations Data Analyst
+- Junior Insight Analyst / Junior Modelling Analyst
+- Reporting Analyst / Business Performance Analyst
+- Junior Business Intelligence Analyst
+- Junior Business Analyst
+- Data Science opportunities as my technical experience develops
 
-## Core experience
-**Payments and operations:** payment processing, validation, status monitoring, failed/delayed payments, exceptions, discrepancies, documentation, stakeholder coordination.
+## Skills
+**Business and operational analytics:** Microsoft Excel, KPI monitoring, business performance reporting, customer data management, data validation, CRM data quality and Microsoft Dynamics 365.
 
-**Controls and reporting:** transaction review, payment controls, compliance support, Excel, SQL, operational reporting and process improvement.
+**Data tools:** SQL, Power BI and Python (learning).
 
-**Developing analytics interests:** fraud pattern analysis, credit risk metrics, statistical modeling and financial data science. These are areas of study and portfolio development, not claims of previous professional credit underwriting or model deployment.
+**Strengths:** analytical thinking, operational problem-solving, accurate records and translating business questions into reporting needs.
 
-## Experience
-- **Euronet Polska** — Payment Operations Analyst (Aug 2024–Present): validate 400+ transactions/cases weekly; investigate failed, delayed and outstanding payments; use Excel and SQL for payment controls.
-- **Concentrix CVG International** — Operations Payment Analyst (May 2023–Jul 2024): transaction validation, exception handling, discrepancy investigation and international stakeholder coordination.
-- **Commercial Bank of Ethiopia** — Banking Operations / Payment Operations & Implementation Specialist (Jan 2020–Oct 2021): international market operations systems, financial data, operational controls and transaction issue resolution.
+## Professional experience
+- **Euronet — Customer Data & Business Performance Analyst** (Oct 2025–present): customer data analysis, KPI monitoring, data quality and business performance reporting.
+- **Euronet — Operations Data & Reporting Specialist** (Aug 2024–Oct 2025): operational reporting, transaction monitoring, data validation and reconciliation.
+- **Concentrix CVG — Data Customer Operations & Performance Reporting Analyst** (Jul 2023–Aug 2024): performance reporting, KPI tracking, CRM data and Excel PivotTables.
+- **Concentrix CVG — Customer Operations & Data Management Associate** (Sep 2022–Jul 2023): customer record management, CRM updates, case tracking and information accuracy.
 
 ## Education
-- **Second MSc in Data Science — WSB Merito University, in progress** (start date to be confirmed).
+- **Master's in Data Science**, WSB Merito University, Poland (2026–present, in progress).
 - **MSc Management & Organization**, Silesian University of Technology, Poland (2021–2023).
+- **Bachelor's in Engineering**, Addis Ababa University, Ethiopia (2017–2021).
 
-## Portfolio development
-Current repositories include a portfolio website and operations/analytics demonstrations. Future case studies will focus on **synthetic-data** payment exception dashboards, fraud detection exploratory analysis, and credit risk portfolio analysis. Projects will be clearly labeled as completed or planned.
+## Selected portfolio work
+These are portfolio and learning projects, separate from professional employment:
+- [Portfolio Website](https://github.com/natinaelaberashi/portfolio-website) — projects, experience and professional background.
+- [Data Analytics & Operations Lab](https://github.com/natinaelaberashi/portfolio-website/tree/main/data-analytics-operations-lab) — SQL, reporting and sample-data exercises.
+- [Power BI Operations Dashboard](https://github.com/natinaelaberashi/portfolio-website/tree/main/power-bi-operations-dashboard) — dashboard development materials and practice data.
+- [Customer Support Analytics](https://github.com/natinaelaberashi/portfolio-website/tree/main/customer-support-analytics) — customer operations and reporting exercises.
 
 ## Connect
-- [Portfolio](https://natinaelaberashi.github.io/portfolio-website)
+- [Portfolio website](https://natinaelaberashi.github.io/portfolio-website/)
 - [LinkedIn](https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b)
 - Email: shibnatabera@gmail.com
